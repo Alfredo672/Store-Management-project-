@@ -18,7 +18,11 @@ Use your knowledge of object-oriented programming and class structure and design
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here.
 
 ![UML Diagram for my project](nameOfImageFileHere.png)
+https://docs.google.com/drawings/d/1-thmd5iln3VQ9vBBBE3mdvTe57p1NrhUioc2XSjNFvE/edit?usp=sharing
 
 ## Description
 
 Write a description of your project here. Include what your store you made, and why you chose this topic. In your description, include as many vocab words from our class to explain how you represented the item/service from your store. If you have user input, explain how the user will interact with your store such as which questions are prompted to the user, what response is your program expecting, and how that is use to output information for your store in the console.
+
+
+For my project, I made a store called Bullseye that sells different products like meat, seafood, fruits, and vegetables, with sections for Carniceria and Produce. I chose this idea because I wanted to create a store that is like Target . I used classes to represent the store and the sections inside it, with details like price and quantity for each product. The constructor methods set the starting values for these details. When the program runs, it shows information about the store and the products, such as their price and how many are available. Right now, the program doesn't ask for user input, but I could add that in the future, like asking the user which items they want to buy, to make the store more interactive.
